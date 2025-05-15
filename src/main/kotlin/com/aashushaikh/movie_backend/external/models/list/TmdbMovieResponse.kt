@@ -1,4 +1,4 @@
-package com.aashushaikh.movie_backend.external
+package com.aashushaikh.movie_backend.external.models.list
 
 data class TmdbMovieResponse(
     val page: Int,
